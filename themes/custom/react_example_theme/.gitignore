@@ -1,2 +1,6 @@
 #exclude dist_dev
 !/js/dist_dev
+
+
+# dependencies
+node_modules
